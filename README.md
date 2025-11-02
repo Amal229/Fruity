@@ -30,7 +30,7 @@ This project demonstrates **authentication**, **product management**, and **cond
 
 ### 1️⃣ Download or Clone
 Download ZIP from GitHub or clone:
-git clone **https://github.com/**(**your-username**)/**(repo-name**).git
+git clone https://github.com/(your-username)/(repo-name).git
 
 ### 2️⃣ Backend Setup
 #### Open terminal and type:

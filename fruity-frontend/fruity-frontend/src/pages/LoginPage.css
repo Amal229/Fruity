@@ -1,0 +1,9 @@
+/* Optional: slightly rounded inputs and shadow for a more modern look */
+.card {
+  border-radius: 10px;
+}
+
+.form-control:focus {
+  border-color: #27ae60;
+  box-shadow: 0 0 0 0.2rem rgba(39, 174, 96, 0.25);
+}

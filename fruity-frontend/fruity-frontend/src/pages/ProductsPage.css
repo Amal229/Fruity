@@ -1,0 +1,37 @@
+.product-img {
+  height: 140px; /* smaller image */
+  object-fit: cover;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+/* Optional: card hover effect */
+.card:hover {
+  transform: translateY(-3px);
+  transition: transform 0.2s;
+}
+
+.card-body {
+  padding: 10px; /* smaller padding */
+}
+
+.card-title {
+  font-size: 1rem; /* smaller title */
+}
+
+.card-text {
+  font-size: 0.85rem; /* smaller text */
+}
+
+.btn {
+  font-size: 0.85rem; /* smaller button text */
+}
+.products-header {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  font-size: 2rem;           
+  font-weight: 700;      
+  color: #000000;             
+  text-align: center;         
+  margin-bottom: 1.5rem;     
+}
+

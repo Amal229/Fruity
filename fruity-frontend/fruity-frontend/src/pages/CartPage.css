@@ -1,0 +1,35 @@
+.cart-card {
+  border-radius: 12px;
+  padding: 0.5rem;
+}
+
+.cart-img {
+  max-height: 110px;
+  object-fit: cover;
+}
+
+.quantity-buttons {
+  display: flex;
+  gap: 0.3rem;
+}
+/* Old price - strikethrough */
+.original-price {
+  text-decoration: line-through;
+  color: #888;
+  margin-left: 5px;
+}
+
+/* Discounted price - bold and green */
+.discounted-price {
+  font-weight: 600;
+  color: #28a745; /* Bootstrap green */
+  margin-left: 5px;
+}
+.cart-header {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* clean modern font */
+  font-size: 2rem;           /* nice big size for the header */
+  font-weight: 700;           /* bold */
+  color: #000000;             /* Bootstrap success green color */
+  text-align: center;         /* center it */
+  margin-bottom: 1.5rem;      /* space below */
+}

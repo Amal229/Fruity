@@ -80,20 +80,21 @@ Open link appears similar to this (http://localhost:5000) in your browser
   kill -9 $(sudo lsof -t -i :5000)
   ```
   
-## 🗂️ ERD
+## 🗂️ ERD :
 ### Entity Relationship Diagram for Database
-![ERD](image.png)
+![ERD](https://sanishtech.com/i/6907e508c8286-1762125064.png)
 
 ## 🖼️ Screenshots
-### Login Page
-![LoginPage](image-2.png)
+### Login Page :
+![LoginPage](https://sanishtech.com/i/6907e440e1dd3-1762124864.png)
 ### ProductsPage
-![ProductsPage](image-1.png)
-### CartPage
-![CartPage](image-3.png)
+![ProductPage](https://sanishtech.com/i/6907e3f33b951-1762124787.png)
+
+### CartPage :
+![CartPage](https://sanishtech.com/i/6907e491af856-1762124945.png)
 
 
-## 👩‍💻 Author
+## 👩‍💻 Author 
 Amal Abduljalil [GitHub](https://github.com/Amal229) | [LinkedIn](https://www.linkedin.com/in/amalabduljalil/)
 
 ### 💖 *Thank you for checking out this project! Enjoy shopping for fruity fun!*🍇🍉

@@ -37,6 +37,10 @@ git clone https://github.com/(your-username)/(repo-name).git
  ```bash
 cd fruity-backend
  ```
+#### again type
+```bash
+cd fruity-backend
+ ```
   ```bash
 npm install
  ```
@@ -57,6 +61,11 @@ npm run dev
  ```bash
  cd fruity-frontend
  ```
+#### again type
+ ```bash
+ cd fruity-frontend
+ ```
+
   ```bash
 npm install
  ```

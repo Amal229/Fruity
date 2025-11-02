@@ -51,7 +51,7 @@ touch .env
 #### then type your secret key inside **SECRET**  or just copy it and paste in .env:
 ```bash
 PORT=5000
-SECRET=your_secret_key 
+SECRET=yoursecretkey 
 ```
 #### then run the backend in terminal:
  ```bash

@@ -6,6 +6,8 @@ Users can **log in**, **browse products**, and **add items to a shopping cart**.
 
 This project demonstrates **authentication**, **product management**, and **conditional visibility** of products for each user.  
 
+Find here deployed link :https://fruity-app-wjjd.onrender.com 
+
 ---
 
 ## ✨ Features

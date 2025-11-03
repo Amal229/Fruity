@@ -58,6 +58,7 @@ SECRET=yoursecretkey
 npm run dev
  ```
 ### 3️⃣ Frontend Setup
+#### Open second terminal and type: 
  ```bash
  cd fruity-frontend
  ```

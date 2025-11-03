@@ -1,6 +1,6 @@
 # 🛍️ Fruity Shop 🍓🍌🍍
 
-Welcome to **Fruity Shop**, a simple Responsive fullstack web application built with **React** (frontend) and **Node.js/Express** (backend) using **SQLite**.  
+Welcome to **Fruity Shop**, a simple **responsive** fullstack web application built with **React** (frontend) and **Node.js/Express** (backend) using **SQLite**.  
 
 Users can **log in**, **browse products**, and **add items to a shopping cart**.  
 

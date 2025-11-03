@@ -92,7 +92,13 @@ Open link appears similar to this (http://localhost:5000) in your browser
   
 ## 🗂️ ERD :
 ### Entity Relationship Diagram for Database
-![ERD](https://sanishtech.com/i/6907e508c8286-1762125064.png)
+![ERD](https://sanishtech.com/i/6907fd3cdd332-1762131260.jpg)
+
+| Relationship         | Type                       | Meaning                                                                     |
+| -------------------- | -------------------------- | --------------------------------------------------------------------------- |
+| **Users → Cart**     | 1 : Many                   | One user can have multiple cart entries                                     |
+| **Products → Cart**  | 1 : Many                   | One product can be in multiple users’ carts                                 |
+
 
 ## 🖼️ Screenshots
 ### Login Page :
